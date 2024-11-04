@@ -1,3 +1,3 @@
-import articles as scrap
+import books as scrap
 
-print(scrap.getAllArticles());
+print(scrap.getAllBooks());
